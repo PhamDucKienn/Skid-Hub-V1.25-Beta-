@@ -1,7 +1,7 @@
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
-local Window = OrionLib:MakeWindow({ Name = "Skid Hub V1(Beta)⚡", HidePremium = false, IntroText = "Skid Hub⚡", SaveConfig = true, ConfigFolder = "OrionTest" })
+local Window = OrionLib:MakeWindow({ Name = "Skid Hub V1.25(Beta)⚡", HidePremium = false, IntroText = "Skid Hub⚡", SaveConfig = true, ConfigFolder = "OrionTest" })
 
 _G.AutoTap = true
 _G.HighSpeed = true
